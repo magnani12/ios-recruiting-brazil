@@ -97,6 +97,9 @@
 		9C90A6B223084066004E39CC /* Movie */ = {
 			isa = PBXGroup;
 			children = (
+				9C90A6E323084438004E39CC /* Scenes */,
+				9C90A6E22308442D004E39CC /* Modal */,
+				9C90A6E123084418004E39CC /* Network */,
 				9C90A6B323084066004E39CC /* AppDelegate.swift */,
 				9C90A6B523084066004E39CC /* ViewController.swift */,
 				9C90A6B723084066004E39CC /* Main.storyboard */,
@@ -123,6 +126,27 @@
 				9C90A6D523084068004E39CC /* Info.plist */,
 			);
 			path = MovieUITests;
+			sourceTree = "<group>";
+		};
+		9C90A6E123084418004E39CC /* Network */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		9C90A6E22308442D004E39CC /* Modal */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Modal;
+			sourceTree = "<group>";
+		};
+		9C90A6E323084438004E39CC /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Scenes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
