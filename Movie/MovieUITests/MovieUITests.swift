@@ -2,7 +2,7 @@
 //  MovieUITests.swift
 //  MovieUITests
 //
-//  Created by GUSTAVO RODRIGUES LEITÃO on 17/08/19.
+//  Created by VICTOR HUGO MAGNANI  on 17/08/19.
 //  Copyright © 2019 Victor Magnani. All rights reserved.
 //
 
